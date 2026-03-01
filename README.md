@@ -25,18 +25,16 @@ Future_fs_01/
     ├── contactRoute.js
     └── Contact.js
     
-⚙️ Getting Started Locally
+# Getting Started Locally
 
 Backend
-
 cd portfolio-backend
 npm install
 
-# Create a .env file with:
-# MONGO_URI=your_mongodb_connection_string
+Create a .env file with:
+MONGO_URI=your_mongodb_connection_string
 
 Frontend
-
 cd portfolio-frontend
 npm install
 npm run dev
